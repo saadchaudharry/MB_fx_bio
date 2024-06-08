@@ -1,0 +1,16 @@
+{
+    "server": "LIVELIHOODPROJ",
+    "database": "wdms",
+    "username": "abacus",
+    "password": "admin@123",
+    "url": "https://magicbus.frappe.cloud",
+    "api_key": "5df77789a570ed4",
+    "api_secret": "2e3249a8629bee",
+    "today": 1,
+    "file_name": "file_name",
+    "time": "22:02",
+    "date_range": {
+        "start_date": "",
+        "end_date": ""
+    }
+}
